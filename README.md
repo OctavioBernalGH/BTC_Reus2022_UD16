@@ -1,4 +1,4 @@
-### Ejercicios SQL Unidad UD16<hr>
+### <img src="/dow-logo.png" alt="Team DOW"/> Ejercicios SQL Unidad UD16<hr>
 
 Este ejercicio ha sido realizado por los miembros del equipo 1. Dicho equipo esta formado por:
 
