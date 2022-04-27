@@ -1,4 +1,9 @@
-### <img src="https://github.com/OctavioBernalGH/BTC_Reus2022_UD16/blob/main/dou_logo.png" alt="Team DOU"/> Ejercicios SQL Unidad UD16<hr>
+ <img src="https://github.com/OctavioBernalGH/BTC_Reus2022_UD16/blob/main/dou_logo.png" alt="Team DOU"/><br>
+ 
+ <hr>
+ 
+ ### Ejercicios SQL Unidad UD16<hr>
+
 
 Este ejercicio ha sido realizado por los miembros del equipo 1. Dicho equipo esta formado por:
 
